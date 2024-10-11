@@ -1,0 +1,6 @@
+@MODULOAPIS_HostAddress = http://localhost:5220
+
+GET {{MODULOAPIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
